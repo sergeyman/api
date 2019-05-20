@@ -1,0 +1,2 @@
+$ curl -v -X POST http://localhost/api/sv_php_rest_api_auth_jwt_w1/api/create_user.php 
+-d firstname="firstname1" -d lastname="lastname1" -d email="smail1@ukr.net" -d password="pass1"
